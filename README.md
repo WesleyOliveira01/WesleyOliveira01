@@ -4,9 +4,9 @@
 - Estudando PHP e Javascript
 
  <div style="display: inline_block">
-  <a href="https://github.com/W3s-ley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W3S-ley&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img  height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3S-ley&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/WesleyOliveira01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyOliveira01&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img  height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveira01&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
