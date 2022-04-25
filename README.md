@@ -1,7 +1,6 @@
  Olá! eu seu o Wesley 🖖
 
-- Hoje trabalho com Front-end
-- Estudando PHP e Javascript
+<br>
 
  <div style="display: inline_block">
   <a href="https://github.com/WesleyOliveira01">
