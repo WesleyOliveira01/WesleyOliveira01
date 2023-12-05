@@ -16,7 +16,7 @@
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
- ![wesleyoliveira01](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyoliveira01&theme=blue-green)  ![card](https://github-readme-stats.vercel.app/api?username=wesleyoliveira01&theme=blue-green) 
+
   
   ## 📩 CONTACTS
   
