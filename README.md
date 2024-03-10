@@ -2,12 +2,7 @@
  
 <img width="100%" height="400px" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
 
-### Hello! Devs 🖖
-
 ## 📚 fullstack developer
-
-## 🧑🏻‍💻 stacks used
-
 
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,9 +21,7 @@
   <a href = "mailto:wesleyoliveira.dev01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-oliveira-aa53b221b/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://dev.to/wesleyoliveira01" target="_blank">
-   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
-  ![snake](https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snake-dark.svg)
+  <!--![snake](https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snake-dark.svg) -->
  
 </div>
   
